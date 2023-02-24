@@ -4,9 +4,6 @@
 The purpose is to create a function to get the names from a list and an input char as parameters
 using list comprehension
 
-## Contraints
-- The input age must be converted to months
-
 ## Input/Output examples
 
 ### Example 1
